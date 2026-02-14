@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ReactRioters
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 Senior UI Developer with 4+ years of experience in UI/UX design and frontend development.
 
-<!---
-ReactRioters/ReactRioters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Strong in converting complex designs into clean, reusable React components.
+
+🚀 Currently working on:
+- React + Vite + Tailwind projects
+- Custom design systems (Dark / Light mode)
+- Full-stack apps using Node.js & MongoDB
+
+🎯 Career focus:
+- Advanced React patterns
+- Performance optimization
+- Full-stack & SaaS products
