@@ -113,13 +113,20 @@ I enjoy:
 ## 📊 What I Focus On
 
 ```text
-React.js              ████████████████████
-JavaScript            ████████████████████
-TypeScript             ██████████████████░░
-UI Development         ████████████████████
-Responsive Design      ████████████████████
-Figma → React          ████████████████████
-State Management       ██████████████████░░
-Performance            ████████████████░░░░
-Accessibility          ████████████████░░░░
-AI-Assisted Development ███████████████░░░░░
+- ⚛️ React.js & JavaScript
+- 🔷 TypeScript
+- 🎨 UI Development & Figma → React
+- 📱 Responsive Design
+- 🧩 Reusable Component Architecture
+- 🔄 State Management
+- ⚡ Performance Optimization
+- ♿ Accessibility & WCAG
+- 🤖 AI-Assisted Development
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** [linkedin.com/in/vijay-patil45](https://www.linkedin.com/in/vijay-patil45/)
+
+🐙 **GitHub:** [github.com/ReactRioters](https://github.com/ReactRioters)
+
+📧 **Email:** [patilvijay416940@gmail.com](mailto:patilvijay416940@gmail.com)
