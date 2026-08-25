@@ -123,10 +123,9 @@ I enjoy:
 - ♿ Accessibility & WCAG
 - 🤖 AI-Assisted Development
 
-## 📫 Connect With Me
 
-💼 **LinkedIn:** [linkedin.com/in/vijay-patil45](https://www.linkedin.com/in/vijay-patil45/)
+📫 Connect With Me
 
-🐙 **GitHub:** [github.com/ReactRioters](https://github.com/ReactRioters)
-
-📧 **Email:** [patilvijay416940@gmail.com](mailto:patilvijay416940@gmail.com)
+💼 LinkedIn: linkedin.com/in/vijay-patil45
+🐙 GitHub: github.com/ReactRioters
+📧 Email: patilvijay416940@gmail.com
