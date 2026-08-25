@@ -6,22 +6,22 @@ I'm a Frontend Developer with **4.8+ years of experience** building responsive, 
 
 I specialize in **React.js, JavaScript, TypeScript, Next.js, and modern UI development**, with a strong focus on reusable components, performance, accessibility, and clean code.
 
-I also have a background in **UI/UX design**, which helps me bridge the gap between design and development and build interfaces that are both visually polished and technically maintainable.
+With a background in **UI/UX design**, I enjoy bridging the gap between design and development to build interfaces that are both visually polished and technically maintainable.
 
 ---
 
 ## 🚀 About Me
 
 - 💻 4.8+ years of experience in Frontend Development
-- ⚛️ Strong experience with React.js and modern React patterns
-- 🟦 Working with TypeScript and JavaScript (ES6+)
-- ▲ Experience with Next.js
-- 🎨 Strong UI/UX and Figma-to-React experience
-- 📱 Responsive & mobile-first development
-- ♿ Focus on accessibility and WCAG best practices
-- ⚡ Interested in frontend performance optimization
-- 🤖 Exploring AI-assisted development workflows
-- 🧩 Passionate about reusable and scalable component architecture
+- ⚛️ Strong experience with React.js
+- 🟦 JavaScript (ES6+) & TypeScript
+- ▲ Next.js
+- 🎨 Figma-to-React development
+- 📱 Responsive & mobile-first UI development
+- ♿ Accessibility & WCAG best practices
+- ⚡ Frontend performance optimization
+- 🧩 Reusable & scalable component architecture
+- 🤖 AI-assisted development workflows
 - 📚 Continuously learning and improving
 
 ---
@@ -52,7 +52,7 @@ I also have a background in **UI/UX design**, which helps me bridge the gap betw
 - Context API
 - React Hooks
 
-### Development
+### Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -71,7 +71,7 @@ I also have a background in **UI/UX design**, which helps me bridge the gap betw
 
 I'm actively exploring AI-assisted development to improve frontend productivity and development workflows.
 
-### Tools
+### Tools & Technologies
 
 - ChatGPT
 - GitHub Copilot
@@ -80,13 +80,14 @@ I'm actively exploring AI-assisted development to improve frontend productivity 
 - Prompt Engineering
 - Design-to-Code workflows
 
-I use AI as a development assistant for:
+I use AI assistance for:
 
-- Understanding and exploring technical solutions
-- Generating and improving boilerplate code
+- Exploring technical solutions
+- Code generation and boilerplate
 - Debugging and troubleshooting
-- Refactoring and optimization
-- Creating reusable components
+- Refactoring
+- Performance improvements
+- Building reusable components
 - Learning new technologies
 
 > AI helps me move faster, but I always review, understand, test, and validate the generated code.
@@ -100,72 +101,25 @@ My UI/UX background allows me to work comfortably across both **design and devel
 I enjoy:
 
 - Converting Figma designs into production-ready React components
-- Creating reusable UI systems
+- Building reusable UI systems
 - Maintaining design consistency
-- Building responsive layouts
+- Creating responsive layouts
 - Improving usability and accessibility
 - Collaborating with designers and developers
-- Validating technical feasibility of designs
+- Validating technical feasibility of UI/UX designs
 
 ---
 
-## 📌 Featured Projects
+## 📊 What I Focus On
 
-### 💰 My Expenses
-
-A React-based personal expense tracking application.
-
-**Tech:** React.js • JavaScript • Tailwind CSS • LocalStorage
-
-Features:
-
-- Add and manage transactions
-- Expense tracking
-- Data persistence
-- Responsive UI
-- Reusable components
-
-🔗 [View Project](#)
-
----
-
-### 📊 SaaS Dashboard
-
-A modern SaaS dashboard focused on reusable UI components and scalable frontend architecture.
-
-**Tech:** React.js • TypeScript • Tailwind CSS • Redux
-
-Features:
-
-- Dashboard analytics
-- Reusable components
-- Responsive layouts
-- State management
-- API integration
-- Performance-focused UI
-
-🔗 [View Project](#)
-
----
-
-## 📈 GitHub Stats
-
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Vijay Patil](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [Vijay Patil](https://github.com/YOUR_USERNAME)
-- 📧 Email: YOUR_EMAIL
-
----
-
-### 💡 Currently
-
-> Building better frontend experiences with React, TypeScript, modern UI systems, and AI-assisted development.
-
-**Let's build something great together! 🚀**
+```text
+React.js              ████████████████████
+JavaScript            ████████████████████
+TypeScript             ██████████████████░░
+UI Development         ████████████████████
+Responsive Design      ████████████████████
+Figma → React          ████████████████████
+State Management       ██████████████████░░
+Performance            ████████████████░░░░
+Accessibility          ████████████████░░░░
+AI-Assisted Development ███████████████░░░░░
